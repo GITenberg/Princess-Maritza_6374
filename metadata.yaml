@@ -1,0 +1,23 @@
+_repo: Princess-Maritza_6374
+creator:
+  author:
+    agent_name: Brebner, Percy James
+    birthdate: 1864
+    deathdate: 1922
+    gutenberg_agent_id: '3142'
+    url: http://www.gutenberg.org/2009/agents/3142
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'British -- Foreign countries -- Fiction'
+title: Princess Maritza
+url: http://www.gutenberg.org/ebooks/6374
